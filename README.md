@@ -1,3 +1,3 @@
 # xljl620
 
-30 09 * * * mtask /jd/own/lee/jd_check.js
+30 09 * * * mtask /jd/own/xljl620/jd_check.js
